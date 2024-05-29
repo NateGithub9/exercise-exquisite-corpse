@@ -11,3 +11,10 @@ déserté. Un chat noir traversa la rue silencieuse, ***ses yeux verts***
 ajoutant > une touche de mystère à la nuit paisible.
 
 Lina, Alex et Mila se retrouvèrent projeté au Moyen-Âge. Ils furent frappés par l'odeur pestidentielle qui se dégageait dans les rues de la citadelle. Les gens étaient sâles, édentés et malpoli.
+
+
+
+Un chat noir, habitant d'un vieux manoir, trouvait chaque nuit une rose rouge posée sur le rebord 
+de la fenêtre. Une nuit, il décida de suivre l'ombre mystérieuse qui déposait la fleur. 
+Il découvrit alors une fée délicate, qui lui chuchota que les roses étaient des gages d'un ancien 
+pacte d'amitié entre leurs mondes.
